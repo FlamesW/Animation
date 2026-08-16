@@ -1,4 +1,4 @@
-## Animation Logger.
+## Animation Logger
 
 #### Lets you log your own animations, Used to create auto parries.
 
