@@ -19,5 +19,5 @@ Script:WhileLoop(0.015, function(self)
         print("🛡 Parry!")
     end
     
-    Artacked = IsAttacking
+    Attacked = IsAttacking
 end, "AutoParry")
